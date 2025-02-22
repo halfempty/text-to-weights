@@ -1,5 +1,7 @@
 # Text to Neural Network Weights
 
+*I generated this program with the help of AI to create model weights from Ulises Carrión's 1975 text "The New Art of Making Books." [Read more here.](https://martyspellerberg.com/2025/02/model-weights-from-ulises-carrions-the-new-art-of-making-books/)* ~MS
+
 A Python tool that generates deterministic neural network weights from input text. The weights are initialized using Xavier/Glorot initialization and can be saved in multiple formats.
 
 ## Installation
