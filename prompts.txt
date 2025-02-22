@@ -1,0 +1,54 @@
+PROMPTS
+
+Good day. Please help me produce neural network weights from a provided text.
++
+Thank you. Let's please modify the script to read the input text from a file
++
+please create the input text file used in the read_text_file function. Set the contents of the file to "Hello world!"
++
+Please modify the text_to_weights function so that the output writes to a local file
++
+please create tests for the functions in this script
++
+Please run the tests
++
+Is it possible to instead of outputting to "weights.npz", change the program to output to an uncompressed folder called "weights"?
++
+Yes please update the tests as well
++
+please run the tests
++
+please run the program
++
+Thank you. What would be an alternative format for outputting the weights, other than npy?
++
+Thank you. I would like to add support for outputting weights in txt format
++
+Yes, please update the test suite to cover the new TXT format support.
++
+Please run the tests.
++
+Please run the script and produce the output.
++
+Let's please add support for CSV format
++
+Yes please update the test suite to include CSV format.
++
+Yes, please run the updates tests.
++
+Yes, please generate the weights in CSV format.
++
+Let's modify the program to organize the "weights" directory into subdirectories for the three file formats: CSV, TXT and NPY
++
+Yes please updat the test suite.
++
+Yes please run the tests.
++
+Yes please generate weights in all three formats.
++
+Good afternoon. Please fill in the README.md file with instructions on how to use this program.
++
+Inside the file instructions.md, please describe this program in such a way that a developer with general knowledge of Python will be able to recreate this program.
++
+Please run the program and regenerate weights in all formats.
++ +
